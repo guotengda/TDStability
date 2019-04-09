@@ -1,0 +1,6 @@
+framework module TDStability {
+  umbrella header "TDStability-umbrella.h"
+
+  export *
+  module * { export * }
+}

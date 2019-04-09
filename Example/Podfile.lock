@@ -1,0 +1,16 @@
+PODS:
+  - TDStability (0.1.0)
+
+DEPENDENCIES:
+  - TDStability (from `../`)
+
+EXTERNAL SOURCES:
+  TDStability:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TDStability: a57f5f2f36da6f2f6d6a40f6ef498ed5a6971eaf
+
+PODFILE CHECKSUM: 15fcc58ddc92f80a8f53fd9fcfba4160c2868df0
+
+COCOAPODS: 1.5.3

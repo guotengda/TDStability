@@ -1,0 +1,22 @@
+{
+  "name": "TDStability",
+  "version": "0.1.0",
+  "summary": "A short description of TDStability.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/13633825326@163.com/TDStability",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "13633825326@163.com": "13633825326@163.com"
+  },
+  "source": {
+    "git": "https://github.com/13633825326@163.com/TDStability.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "TDStability/Classes/**/*"
+}

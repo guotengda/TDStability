@@ -1,0 +1,6 @@
+use_frameworks!
+target 'TDStability_Tests' do
+  pod 'TDStability', :path => '../'
+  
+  
+end

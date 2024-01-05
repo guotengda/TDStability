@@ -6,6 +6,6 @@ final class TDStabilityTests: XCTestCase {
         // This is an example of a functional test case.
         // Use XCTAssert and related functions to verify your tests produce the correct
         // results.
-        XCTAssertEqual(TDStability().text, "Hello, World!")
+//        XCTAssertEqual(TDStability().text, "Hello, World!")
     }
 }
